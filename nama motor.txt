@@ -3,7 +3,7 @@
     1. VVA
     2. Up side down
     3. digital speedo meter
+    4. Abs
 - Honda :
   ~ Fitur
     1. Abs
-    2. Keyless
