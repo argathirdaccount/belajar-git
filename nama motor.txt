@@ -2,6 +2,7 @@
   ~ Fitur :
     1. VVA
     2. Up side down
+    3. digital speedo meter
 - Honda :
   ~ Fitur
     1. Abs
