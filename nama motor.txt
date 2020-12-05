@@ -2,7 +2,7 @@
   ~ Fitur :
     1. VVA
     2. Up side down
+    3. Abs
 - Honda :
   ~ Fitur
     1. Abs
-    2. Keyless
