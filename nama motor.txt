@@ -12,3 +12,4 @@
   ~ Fitur
     1. Keyless
     2. abs
+- Ktm
