@@ -8,3 +8,6 @@
   ~ Fitur
     1. Abs
     2. quick shifter
+- Suzuki :
+  ~ Fitur
+    1. Keyless
